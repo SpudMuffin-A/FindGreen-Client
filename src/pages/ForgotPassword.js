@@ -8,7 +8,7 @@ function ForgotPassword() {
       <div className="md:w-1/2">
         <img
           aria-hidden="true"
-          className="object-cover w-full h-screen dark:hidden"
+          className="object-cover w-full h-screen"
           src={ImageLight}
           alt="Office"
         />
@@ -17,7 +17,7 @@ function ForgotPassword() {
         <div className="w-full">
           <h1 className="text-3xl">
             Forgot Password
-            <h1 className="mb-4 text-sm font-semibold text-gray-700 dark:text-gray-200">
+            <h1 className="mb-4 text-sm font-semibold text-gray-700">
             An OTP will be sent to your email.
           </h1>
           </h1>
