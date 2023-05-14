@@ -8,7 +8,7 @@ function ResetPassword() {
       <div className="md:w-1/2">
         <img
           aria-hidden="true"
-          className="object-cover w-full h-screen dark:hidden"
+          className="object-cover w-full h-screen"
           src={ImageLight}
           alt="Office"
         />
@@ -16,7 +16,7 @@ function ResetPassword() {
       <main className="flex items-center justify-center p-6 sm:p-12 md:w-1/2">
         <div className="w-full">
           <h3 className="text-xl">
-            <h1 className="mb-4 text-3xl font-semibold text-gray-700 dark:text-gray-200">
+            <h1 className="mb-4 text-3xl font-semibold text-gray-700">
             Reset Password.
           </h1>
           </h3>
