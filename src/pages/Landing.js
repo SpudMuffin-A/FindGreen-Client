@@ -17,7 +17,7 @@ function Login() {
         <div className="w-full">
           <h3 className="text-xl">
             Log in.
-            <h1 className="mb-4 text-3xl font-semibold text-gray-700>
+            <h1 className="mb-4 text-3xl font-semibold text-gray-700">
             Welcome Back!
           </h1>
           </h3>
